@@ -1,0 +1,107 @@
+		.entete{
+	width: 70%;
+	height: 90%;
+	margin-left: 15%;
+	margin-right: 15%;
+	background-size: 100% 100%;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#e5e5e5));
+	background: -webkit-linear-gradient(top, #ffffff, #e5e5e5);
+	background: -moz-linear-gradient(top, #ffffff, #e5e5e5);
+	background: -ms-linear-gradient(top, #ffffff, #e5e5e5);
+	background: -o-linear-gradient(top, #ffffff, #e5e5e5);
+	border-radius: 15px;	 
+}
+#rev{
+	margin: 0 auto;
+	margin-left: 10px;
+}
+.titre{
+	text-align: center;
+	font-size: 4em;
+	color: red;
+	font-weight: bold;
+	margin-top: 20px;
+
+}
+#connex{
+	position: absolute;
+	background-color: blue;
+	border-radius: 15px;
+	margin-top: 350px;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#e5e5e5));
+	background: -webkit-linear-gradient(top, #ffffff, #e5e5e5);
+	background: -moz-linear-gradient(top, #ffffff, #e5e5e5);
+	background: -ms-linear-gradient(top, #ffffff, #e5e5e5);
+	background: -o-linear-gradient(top, #ffffff, #e5e5e5);
+	width: 150px;
+	margin-left: 20px;
+	height: 85px;
+}
+body{
+	background-image: url("img/GEDC0258.JPG");
+	background-size: cover;
+}
+#pied_de_page{
+	color: #999;
+	background-color: #000;
+	text-align: center;
+	width: 100%;
+	margin: 10px auto;
+}
+input[type="search"]{
+	width: 70%;
+	height: 40px;
+	margin-left: 80px;
+	margin-top: 100px;
+	margin-right: 0px;
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+input[type="submit"]{
+	width: 100px;
+	height: 30px;
+	margin-left: 0px;
+	margin-top: 105px;
+	margin-right: 0px;
+	font-size: 15px;
+	margin-bottom: 30px;
+}
+#recherche,#resultat,ul{
+	margin-left: 40px;
+	padding: 0;
+	border: 0; 
+	width: 700px;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 1.5em;
+	font-size: 20px;
+}
+#resultat li{
+	list-style-type: none;
+	margin-left: 40px;
+	padding: 0;
+}
+#resultat ul li a{
+	color: #000;
+	text-decoration: none;
+	width: 700px;
+	height: 30px;
+	display: block;
+	text-align: center;
+	border: 1px solid #000;
+	margin-top: 0;
+	margin-bottom: 0; 
+	border-top: 0px;
+}
+#recherche{
+	border: 1px solid #000;
+	margin-left: 120px; 
+	font-size: 25px;
+}
+a{
+	text-decoration: none; 
+}
+a:hover{
+	background-color: #333;
+	color: #fff;  
+}

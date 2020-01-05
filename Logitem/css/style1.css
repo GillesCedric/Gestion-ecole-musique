@@ -1,0 +1,117 @@
+.entete{
+	width: 70%;
+	height: 90%;
+	margin-left: 15%;
+	margin-right: 15%;
+	/*background-image: url("img/P1.PNG");*/
+	background-size: cover;
+	border-radius: 15px;
+	font-weight: bold;
+	margin-top: 30px;
+	 
+}
+.titre{
+	text-align: center;
+	font-size: 4em;
+	color: red;
+	font-weight: bold;
+	margin-bottom: 60px;
+
+}
+.nb{
+	text-align: left;
+	margin-left: 10px;
+}
+#tx{
+	margin-left: 20px;
+}
+#li{
+	font-size: 02em;
+	margin-top: 150px;
+}
+.ins{
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+input[name="cle1"]{
+	width: 70%;
+	height: 40px;
+	margin-left: 10px;
+	margin-top: 50px;
+	margin-right: 0px;
+	font-size: 35px;
+	margin-bottom: 30px;
+}
+input[name="cle2"]{
+	margin-top: 15px;
+	margin-left: 15px;
+	border-radius: 5px;
+	
+}
+input[value="ENVOYER"]{
+	margin-top: 5px;
+	margin-left: 15px;
+	border-radius: 5px;
+	width: 150px;
+	height: 30px;
+	font-size: 25px;
+	line-height: 0px;
+}
+input{
+	margin-top: 10px;
+}
+.form{
+	margin-top: 40px;
+	font-size: 18px;
+	
+}
+#rev{
+	margin: 0 auto;
+	margin-left: 10px;
+	color: red;
+}
+.logo{
+	margin-top: 25px;
+	margin-left: 25px;
+}
+fieldset{
+	width: 450px;
+	border-radius: 5px;
+	border-color: #399;
+	border-width: 5px;
+}
+input[type='file']{
+	width: 180px;
+}
+input{
+		border-radius: 5px;
+}
+select{
+	border-radius: 5px;
+	width: 148px;
+	margin-top: 10px;
+}
+label{
+	font-weight: bold;
+	font-size: 20px;
+}
+option{
+	border-radius: 5px;
+}
+input[type="reset"],input[type="submit"]{
+	margin-top: 30px;
+}
+#bt{
+	margin-bottom: 50px;
+}
+body{
+	background-color: #aaaaaa;
+}
+#pied_de_page{
+	color: #999;
+	background-color: #000;
+	text-align: center;
+	width: 100%;
+	margin: 10px auto;
+}

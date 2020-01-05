@@ -1,0 +1,71 @@
+input[type='submit']{
+		width: 240px;
+		height: 30px;
+		font-size: 1.4em;
+		background-color: #d3d3d3;
+		border: none;
+		margin-left: 5px;
+		border-radius: 3px;
+		margin-bottom: 20px;
+		transition: 2.5s;
+	}
+	input[type='password']{
+		width: 310px;
+		height: 35px;
+		font-size: 1.6em;
+		margin-top: 10px;
+		padding: 0 25px;
+		border: 2px solid #d3d3d3;
+	}
+	input[type='password']:focus{
+		border-color: dodgerBlue;
+		box-shadow: 0 0 8px 0 dodgerBlue;
+	}
+	input[type='submit']:hover{
+		background-color: dodgerBlue;
+		border-width: 2px;
+		border-color: dodgerBlue;
+	}
+	.inputWithIcon input[type='password']{
+		padding-left: 50px;
+	}
+	.inputWithIcon{
+		position: relative;
+	}
+	.inputWithIcon i{
+		position: absolute;
+		left: 28px;
+		top: 10px;
+		padding: 4px 3px;
+		color: #aaa;
+		transition: 3s;
+	}
+	.inputWithIcon.inputIconBg i{
+		background-color: #aaa;
+		color: #fff;
+		padding: 10.5px 9px;
+		border-radius: 5px 0 0 5px;
+	}
+	.inputWithIcon.inputIconBg input[type='password']:focus + i{
+		color: #fff;
+		background-color: dodgerBlue;
+	}
+	.img{
+		background-repeat: no-repeat;
+		width: 130px;
+		border-radius: 50%;
+		margin-top: 0px;
+		margin-left: 0px;
+		margin-bottom: 10px;
+
+	}
+	.img:after{
+		content: "";
+		padding-bottom: 100%;
+		display: block;
+	}
+	.info_users{
+		color: black;
+		font-size: 22px;
+	}
+	

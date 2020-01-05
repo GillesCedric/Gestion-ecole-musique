@@ -1,0 +1,136 @@
+label{
+			margin-left: 70px;
+			margin-bottom: 200px;
+		}
+		td{
+			margin-top: 200px;
+		}
+		tr{
+			margin-top: 200px;
+		}
+		@media print{
+			#pied_de_page,input[type="submit"],#rev{
+				display: none;
+			}
+		}
+		.entete{
+			width: auto;
+			height: auto;
+			margin-left: 0 auto;
+			margin-right: 0 auto;
+			background-size: 100% 100%;
+			background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#e5e5e5));
+			background: -webkit-linear-gradient(top, #ffffff, #e5e5e5);
+			background: -moz-linear-gradient(top, #ffffff, #e5e5e5);
+			background: -ms-linear-gradient(top, #ffffff, #e5e5e5);
+			background: -o-linear-gradient(top, #ffffff, #e5e5e5);
+			border-radius: 15px;
+			 
+		}
+		#rev{
+			margin: 0 auto;
+			margin-left: 10px;
+		}
+		.titre{
+			text-align: center;
+			font-size: 4em;
+			color: red;
+			font-weight: bold;
+			margin-top: 20px;
+
+		}
+		#connex{
+			position: absolute;
+			background-color: blue;
+			border-radius: 15px;
+			margin-top: 350px;
+			background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#e5e5e5));
+			background: -webkit-linear-gradient(top, #ffffff, #e5e5e5);
+			background: -moz-linear-gradient(top, #ffffff, #e5e5e5);
+			background: -ms-linear-gradient(top, #ffffff, #e5e5e5);
+			background: -o-linear-gradient(top, #ffffff, #e5e5e5);
+			width: 150px;
+			margin-left: 20px;
+			height: 85px;
+		}
+		#out{
+			margin-left: 25px;
+		}
+		#in{
+			margin-left: 10px;
+		}
+		#st{
+			text-align: center;
+			font-weight: bold;
+			margin-top: 10px;
+		}
+		.logo{
+			margin-top: 25px;
+			margin-left: 25px;
+		}
+		#dt{
+			margin-top: 40px;
+		}
+		label{
+			margin-left: 20px;
+		}
+		#g{
+			text-align: left;
+			margin-left: 25px;
+		}
+		#d{
+			text-align: right;
+			margin-right: 25px;
+		}
+		.rmq{
+			text-align: left;
+			margin-left: 25px;
+			margin-top: 20px;
+		}
+		.text{
+			text-align: left;
+			margin-left: 50px;
+			margin-top: 20px;
+		}
+		#sign_g{
+			margin-top: 40px;
+			margin-left: 40px;
+		}
+		#sign_d{
+			text-align: right;
+			margin-right: 40px;
+			margin-top: -10px;
+		}
+		.fact{
+			margin-top: 60px;
+			text-align: center;
+			font-weight: bold;
+			margin-bottom: 20px;
+		}
+		#con{
+			margin-left: 0px;
+		}
+		input[type="reset"]{
+			margin-top: 30px;
+		}
+		input[type="submit"]{
+			margin-top: 30px;
+			margin-left: 40px;
+		}
+		.btn{
+			align: right;
+			margin-left: 0px;
+		}
+		input,textarea{
+			border-radius: 5px;
+		}
+		#pied_de_page{
+			color: #999;
+			background-color: #000;
+			text-align: center;
+			width: 100%;
+			margin: 10px auto;
+		}
+		table{
+			margin-left: 100px;
+		}

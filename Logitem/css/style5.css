@@ -1,0 +1,127 @@
+.entete{
+	width: 70%;
+	height: 90%;
+	margin-left: 15%;
+	margin-right: 15%;
+	background-size: 100% 100%;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#e5e5e5));
+	background: -webkit-linear-gradient(top, #ffffff, #e5e5e5);
+	background: -moz-linear-gradient(top, #ffffff, #e5e5e5);
+	background: -ms-linear-gradient(top, #ffffff, #e5e5e5);
+	background: -o-linear-gradient(top, #ffffff, #e5e5e5);
+	border-radius: 15px;
+	 
+}
+.titre{
+	text-align: center;
+	font-size: 4em;
+	color: red;
+	font-weight: bold;
+	margin-top: 20px;
+
+}
+#connex{
+	position: absolute;
+	background-color: blue;
+	border-radius: 15px;
+	margin-top: 350px;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#e5e5e5));
+	background: -webkit-linear-gradient(top, #ffffff, #e5e5e5);
+	background: -moz-linear-gradient(top, #ffffff, #e5e5e5);
+	background: -ms-linear-gradient(top, #ffffff, #e5e5e5);
+	background: -o-linear-gradient(top, #ffffff, #e5e5e5);
+	width: 192px;
+	margin-left: 01px;
+	height: 375px;
+}
+input[name="deconnexion"]{
+	margin-top: 5px;
+	margin-left: 15px;
+	border-radius: 5px;
+}
+input[name="supprimer"]{
+	margin-top: 5px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+input[name="inscrire"]{
+	margin-top: 5px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+input[name="modifier"]{
+	margin-top: 5px;
+	margin-left: 15px;
+	border-radius: 5px;
+
+}
+input[name="acceuil"]{
+	margin-top: 5px;
+	border-radius: 5px;
+	margin-left: 15px;
+}
+input[type="button"]{
+	border-radius: 5px;
+	margin-top: 5px;
+}
+input[name="imprimer"]{
+	border-radius: 5px;
+	margin-top: 5px;
+}
+.out{
+	margin-left: 15px;
+	margin-top: 15px;
+}
+#in{
+	margin-left: 0px;
+}
+#st{
+	text-align: center;
+	font-weight: bold;
+	margin-top: 10px;
+}
+.logo{
+	margin-top: 25px;
+	margin-left: 25px;
+}
+#dt{
+	margin-top: 40px;
+}
+#d{
+	text-align: right;
+	margin-right: 25px;
+}
+#tt{
+	margin-top: 80px;
+	text-align: center;
+	font-size: 50px;
+}
+#btn{
+	align: center;
+	margin-top: 80px;
+	margin-bottom: 10px;
+}
+#result{
+	margin-top: 80px;
+	margin-left: 30px;
+}
+#rev{
+	margin: 0 auto;
+	margin-left: 10px;
+}
+body{
+	background-image: url("img/P1.PNG");
+	background-size: cover;
+}
+#pied_de_page{
+	color: #999;
+	background-color: #000;
+	text-align: center;
+	width: 100%;
+	margin: 10px auto;
+}
+a{
+ 	text-decoration: none; 
+}

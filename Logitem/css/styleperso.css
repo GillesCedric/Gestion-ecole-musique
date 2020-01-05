@@ -1,0 +1,230 @@
+.rad{
+	margin-left: 90px;
+	}
+	#vs{
+		margin-left: 10px;
+	}
+	input[name='ajouter']{
+		margin-top: 5px;
+	margin-left: 15px;
+	border-radius: 5px;
+	}
+	input[name='nom']{
+	margin-top: 25px;
+	margin-left: -52px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="prenom"]{
+		margin-left: 122px;
+	}
+	input[name='prenom']{
+	margin-top: 25px;
+	margin-left: -66px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="ville"]{
+		margin-left: 112px;
+	}
+	input[name='ville']{
+	margin-top: 25px;
+	margin-left: -128px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="age"]{
+		margin-left: 40px;
+	}
+	input[name='age']{
+	margin-top: 25px;
+	margin-left: -35px;
+	border-radius: 5px;
+	position: absolute;
+	width: 25px;
+	}
+	select[name='profession']{
+	margin-top: 25px;
+	margin-left: -130px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="profession"]{
+		margin-left: 15px;
+	}
+	label[for="etablissement"]{
+		position: absolute;
+		margin-top: 60px;
+		margin-left: -706px;
+	}
+	input[name='etablissement']{
+	margin-top: 100px;
+	margin-left: -706px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="classe"]{
+		position: absolute;
+		margin-top: 60px;
+		margin-left: -532px;
+	}
+	input[name='classe']{
+	margin-top: 100px;
+	margin-left: -532px;
+	border-radius: 5px;
+	position: absolute;
+	width: 50px;
+	}
+	label[for="nomtuteur"]{
+		position: absolute;
+		margin-top: 60px;
+		margin-left: -452px;
+	}
+	input[name='nomtuteur']{
+	margin-top: 100px;
+	margin-left: -452px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="prenomtuteur"]{
+		position: absolute;
+		margin-top: 60px;
+		margin-left: -280px;
+	}
+	input[name='prenomtuteur']{
+	margin-top: 100px;
+	margin-left: -280px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="teleleve"]{
+		position: absolute;
+		margin-top: 60px;
+		margin-left: -110px;
+	}
+	input[name='teleleve']{
+	margin-top: 100px;
+	margin-left: -110px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="teltuteur"]{
+		position: absolute;
+		margin-top: 140px;
+		margin-left: -706px;
+	}
+	input[name='teltuteur']{
+	margin-top: 165px;
+	margin-left: -706px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="email"]{
+		position: absolute;
+		margin-top: 140px;
+		margin-left: -532px;
+	}
+	input[name='email']{
+	margin-top: 165px;
+	margin-left: -532px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="categorie"]{
+		position: absolute;
+		margin-top: 140px;
+		margin-left: -352px;
+	}
+	select[name='categorie']{
+	margin-top: 165px;
+	margin-left: -352px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="formation"]{
+		position: absolute;
+		margin-top: 140px;
+		margin-left: -128px;
+	}
+	select[name='formation']{
+	margin-top: 165px;
+	margin-left: -128px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="session"]{
+		position: absolute;
+		margin-top: 200px;
+		margin-left: -706px;
+	}
+	select[name='session']{
+	margin-top: 225px;
+	margin-left: -706px;
+	border-radius: 5px;
+	position: absolute;
+	width: 58px;
+	}
+	label[for="etude"]{
+		position: absolute;
+		margin-top: 200px;
+		margin-left: -630px;
+	}
+	select[name='etude']{
+	margin-top: 225px;
+	margin-left: -630px;
+	border-radius: 5px;
+	position: absolute;
+	width: 154px;
+	}
+	label[for="preference"]{
+		position: absolute;
+		margin-top: 200px;
+		margin-left: -452px;
+	}
+	select[name='preference']{
+	margin-top: 225px;
+	margin-left: -452px;
+	border-radius: 5px;
+	position: absolute;
+	width: 154px;
+	}
+	label[for="instrument"]{
+		position: absolute;
+		margin-top: 258px;
+		margin-left: -706px;
+	}
+	input[name='instrument']{
+	margin-top: 300px;
+	margin-left: -706px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="somme"]{
+		position: absolute;
+		margin-top: 200px;
+		margin-left: -280px;
+	}
+	input[name='somme']{
+	margin-top: 225px;
+	margin-left: -280px;
+	border-radius: 5px;
+	position: absolute;
+	}
+	label[for="date"]{
+		position: absolute;
+		margin-top: 200px;
+		margin-left: -110px;
+	}
+	input[name='date']{
+	margin-top: 225px;
+	margin-left: -110px;
+	border-radius: 5px;
+	position: absolute;
+	width: 151px;
+	}
+	input[type='reset']{
+		margin-left: 550px;
+	}
+	input[value='ENREGISTRER']{
+		margin-left: 50px;
+	}
